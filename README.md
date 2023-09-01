@@ -10,4 +10,3 @@ For more details about the project please visit to our blog:[STM32L476_LOW_POWER
 * Enter the ```make``` command in the terminal.
 
 
-![image](https://user-images.githubusercontent.com/42150715/221431363-48bf0c17-b1f6-4870-be3a-0334437a82da.png)
